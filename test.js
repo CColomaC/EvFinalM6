@@ -62,5 +62,38 @@ describe('POST /anime', () => {
     });
 });
 
+    // Test para PUT /anime
+    describe('PUT /anime', () => {
+        it('debería actualizar un anime existente', (done) => {
+            const id = 'some-id'; // Reemplaza con un id válido
+            const datosActualizados = {
+                nombre: 'Naruto Shippuden'
+            };
+            chai.request(server)
+                .put(`/anime?id=${id}`)
+                .send(datosActualizados)
+                .end((err, res) => {
+                    expect(res).to.have.status(200);
+                    expect(res.text).to.equal('Los datos han sido modificados exitosamente');
+                    done();
+                });
+        });
+    });
+
+    // Test para DELETE /anime
+    describe('DELETE /anime', () => {
+        it('debería eliminar un anime existente', (done) => {
+            const id = 'some-id'; // Reemplaza con un id válido
+            chai.request(server)
+                .delete(`/anime?id=${id}`)
+                .end((err, res) => {
+                    expect(res).to.have.status(200);
+                    expect(res.text).to.equal('El anime ha sido eliminado exitosamente');
+                    done();
+                });
+        });
+    });
+});
+
 
 
