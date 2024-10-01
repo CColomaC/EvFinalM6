@@ -1,0 +1,25 @@
+{
+  "name": "finaldrillingm6s8",
+  "version": "1.0.0",
+  "description": "Trabajo final Módulo 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "GET, POST, PUT, DELETE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/CColomaC.git"
+  },
+  "author": "CColoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/CColomaC/issues"
+  },
+  "homepage": "https://github.com/github.com/CColomaC#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.3.0",
+    "uuid": "^10.0.0"
+  }
+}

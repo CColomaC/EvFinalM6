@@ -1,0 +1,104 @@
+{
+  "1": {
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  "2": {
+    "nombre": "Dragon Ball",
+    "genero": "Shonen",
+    "año": "1986",
+    "autor": "Akira Toriyama"
+  },
+  "3": {
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  "4": {
+    "nombre": "Naruto",
+    "genero": "Shonen",
+    "año": "2002",
+    "autor": "Masashi Kishimoto"
+  },
+  "5": {
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  "8b9415fc-2a98-4393-84b5-1bba6aba10ea": {
+    "nombre": "One Piece"
+  },
+  "ba981155-1dc2-435f-a6fd-a5455e78f621": {
+    "nombre": "One Piece",
+    "genero": "Shojo",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "013e9fc0-f543-4fc2-9379-af1d484154d9": {
+    "nombre": "One Piece"
+  },
+  "b63e276e-0c8e-4c52-9d63-4d7ec1dd437e": {
+    "nombre": "One Piece",
+    "genero": "Shojo",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "23621a9e-d275-480a-87f8-f936fab8d8c0": {
+    "nombre": "One Piece"
+  },
+  "258701c5-0ea6-493c-8f50-5294b1417bb4": {
+    "nombre": "One Piece",
+    "genero": "Shojo",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "fc41ce24-cb2a-430a-adfd-c936a355d54b": {
+    "nombre": "One Piece"
+  },
+  "564cfe45-647d-4277-874c-44443817e359": {
+    "nombre": "One Piece",
+    "genero": "Shojo",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "b668dfc0-5e49-4d55-97a0-a16630385322": {
+    "nombre": "One Piece",
+    "genero": "Shojo",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "371e1ebf-a610-45c4-badf-060c51a7febe": {
+    "nombre": "One Piece",
+    "genero": "Shojo",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "f0a84dc0-e855-4517-8362-6ffab241b5fa": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "5a7aae34-1dce-4058-bd95-8b5726c75baa": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "76244a7a-856b-43a9-8a2c-8a4bbec5c59b": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "f49b4f62-4673-48fe-a226-e5f900cd00bc": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  }
+}
